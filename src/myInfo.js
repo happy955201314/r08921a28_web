@@ -1,12 +1,12 @@
 import React from 'react';
 import { Navbar, Nav, Button } from 'react-bootstrap';
 
-class userInfo extends React.Component {
+class myInfo extends React.Component {
     render(){
         return(
-          <h1>user information</h1>
+          <h1>my information</h1>
         );
     }
 }
 
-export default userInfo;
+export default myInfo;
