@@ -1,5 +1,4 @@
 import React from 'react';
-import { Navbar, Nav, Button } from 'react-bootstrap';
 
 class userInfo extends React.Component {
     render(){
